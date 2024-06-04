@@ -2,11 +2,11 @@
 
 Cash Settlement App is a free tool for friends and roommates to track bills and other shared expenses, so that everyone gets paid back <br>
 
-### [Live Demo](https://payment-settlement-app.netlify.app/)
+### [Live Demo](https://simplify-payment-processing.netlify.app/)
 
-![screenshot](https://github.com/MinusRF/Payment-Settlement-App/blob/master/images/screenshot_1.PNG)
+![screenshot](images/screenshot_1.PNG)
 
-![screenshot](https://github.com/MinusRF/Payment-Settlement-App/blob/master/images/screenshot_2.PNG)
+![screenshot](images/screenshot_2.PNG)
 
 ---
 
